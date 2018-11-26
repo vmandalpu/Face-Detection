@@ -4,7 +4,7 @@ In this notebook, we will not go thru the hassle of training or building neural 
 
 Here are the steps we will be taking:
 
-Detect/identify faces in an image (using a face detection model) — for simplicity, this tutorial will only use images with one    face/person in it, not more/less
+Detect/identify faces in an image (using a face detection model) — for simplicity, this notebook will only use images with one    face/person in it, not more/less
 
 Predict face poses/landmarks (for the faces identified in step 1)
 
