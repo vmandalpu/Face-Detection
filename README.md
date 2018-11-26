@@ -1,6 +1,6 @@
 # Facial Recognition Using Neural Networks
 
-In this notebook, we will not go thru the hassle of training or building neural network model,  We have access to a trained model through dlib that we can use. It does exactly what we need it to do — outputs a bunch of numbers (face encodings) when we pass in the image of someone’s face; comparing face encodings of faces from different images will tell us if someone’s face matches with anyone we have images of. 
+This demo notebook to show how neural network can be used for facial recognition, for this demo we will not go thru the hassle of training or building our own neural network model. Instead will leverage trained model available through dlib that we can use. It does exactly what we need it to do — outputs a bunch of numbers (face encodings) when we pass in the image of someone’s face; comparing face encodings of faces from different images will tell us if someone’s face matches with anyone we have images of. 
 
 Here are the steps we will be taking:
 
